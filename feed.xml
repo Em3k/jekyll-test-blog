@@ -4,21 +4,21 @@
     <title>Gulp Jekyll Blog</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://127.0.0.1:4000//</link>
-    <atom:link href="http://127.0.0.1:4000//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 01 Jun 2016 15:34:13 +0100</pubDate>
-    <lastBuildDate>Wed, 01 Jun 2016 15:34:13 +0100</lastBuildDate>
+    <link>http://em3k.github.io//</link>
+    <atom:link href="http://em3k.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 02 Jun 2016 13:53:59 +0100</pubDate>
+    <lastBuildDate>Thu, 02 Jun 2016 13:53:59 +0100</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
         <title>My first post</title>
         <description>&lt;p&gt;Lorem ipsum…&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://127.0.0.1:4000//images/fallout.jpg&quot; alt=&quot;fallout&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://em3k.github.io//images/fallout.jpg&quot; alt=&quot;fallout&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jun 2016 15:21:00 +0100</pubDate>
-        <link>http://127.0.0.1:4000//jekyll/gulp/blog/2016/06/01/My-first-jekyll-blol-post.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//jekyll/gulp/blog/2016/06/01/My-first-jekyll-blol-post.html</guid>
+        <link>http://em3k.github.io//jekyll/gulp/blog/2016/06/01/My-first-jekyll-blol-post.html</link>
+        <guid isPermaLink="true">http://em3k.github.io//jekyll/gulp/blog/2016/06/01/My-first-jekyll-blol-post.html</guid>
         
         
         <category>jekyll</category>
@@ -47,8 +47,8 @@
 
 </description>
         <pubDate>Wed, 01 Jun 2016 15:05:50 +0100</pubDate>
-        <link>http://127.0.0.1:4000//jekyll/update/2016/06/01/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000//jekyll/update/2016/06/01/welcome-to-jekyll.html</guid>
+        <link>http://em3k.github.io//jekyll/update/2016/06/01/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://em3k.github.io//jekyll/update/2016/06/01/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
